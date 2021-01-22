@@ -3,7 +3,7 @@ def FactorSum(x, o):
     t = 0
     
     
-    for i in range (0, x):
+    for i in range (0, x + 1):
         t = t + i
     
 
