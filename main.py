@@ -1,4 +1,4 @@
-def FactorSum(x, o):
+def FactOrSum(x, o):
     
     t = 0
     
@@ -21,4 +21,3 @@ def FactorSum(x, o):
     else:
         return a
 
-print(FactorSum(3, "sum"))
