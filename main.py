@@ -1,4 +1,4 @@
-def FactOrSum(x, o):
+def factOrSum(x, o):
     
     t = 0
     
