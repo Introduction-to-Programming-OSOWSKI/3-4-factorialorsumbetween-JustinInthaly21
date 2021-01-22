@@ -16,9 +16,9 @@ def FactorSum(x, o):
 
     
 
-    if o == "Sum":
+    if o == "sum":
         return t
     else:
         return a
 
-print(FactorSum(10, "Sum"))
+print(FactorSum(3, "sum"))
